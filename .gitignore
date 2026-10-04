@@ -1,0 +1,6 @@
+__pycache__/
+*.db
+*.save
+app_backup*.py
+app_before*.py
+design_patch.py
